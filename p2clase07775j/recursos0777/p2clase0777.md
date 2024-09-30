@@ -1,0 +1,14 @@
+- Crear aplicacion navaclase_app
+- comando --> python manage.py startapp navaclase_app
+- Creamos el archivo urls.py en navaclase_app
+- ![alt text](image-1.png)
+- En setting.py de p2clase0777
+- ![alt text](image.png)
+- En urls.py de p2clase007
+- ![alt text](image-2.png)
+- en urls.py en navaclase_app
+- ![alt text](image-3.png)
+- en views.py en navaclase_app
+- ![alt text](image-4.png)
+- en urls.py en navaclase_app
+- ![alt text](image-5.png)
