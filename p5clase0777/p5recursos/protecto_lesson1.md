@@ -1,0 +1,39 @@
+- Creamos el archivo views.py en p5clase077   https://youtu.be/qcJZN1pvG6A?si=xUT8IMxqEluJpYuu
+- ![alt text](image.png)
+-
+- en urls.py en  p5clase0777
+- ![alt text](image-2.png)
+- 
+- ejacutamos el servidor
+- ![alt text](image-3.png)
+- 
+- creamos la carpeta templates y el archivo inicio.html
+- ![alt text](image-4.png)
+- 
+- dentro de la carpeta el archivo acercade.html
+- ![alt text](image-5.png)
+- 
+- En settings.py
+- ![alt text](image-6.png)
+- en el archivo views.py 
+- ![alt text](image-7.png)
+- 
+- en el navegador
+- ![alt text](image-8.png)
+- 
+- Creamos la carpeta static y a su vez la carpeta css
+- mas  el archivo style.css
+- ![alt text](image-9.png)
+- 
+- en setting.py realizamos lo siguiente
+- ![alt text](image-10.png)
+- mas
+- ![alt text](image-13.png)
+- 
+- en archivo inicio.html
+- ![alt text](image-12.png)
+- 
+- ejecutamos el servidor
+- 
+- en el archivo acercade.html
+-  
