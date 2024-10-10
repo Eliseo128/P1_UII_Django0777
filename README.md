@@ -15,3 +15,5 @@ configuraciones basicas para trabajar con el frameworb de Django
 - 12 Realizar migracion al proyect python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - Me trabajo el proyecto
+
+- link https://python-intermedio.readthedocs.io/es/latest/decorators.html
