@@ -17,3 +17,6 @@ configuraciones basicas para trabajar con el frameworb de Django
 - Me trabajo el proyecto
 
 - link https://python-intermedio.readthedocs.io/es/latest/decorators.html
+
+
+- ![image](https://github.com/user-attachments/assets/79dc976d-a076-457e-a39b-d11e01b1cb01)
